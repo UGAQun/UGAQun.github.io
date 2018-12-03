@@ -9,8 +9,8 @@ comments: false
 ***
 **Department of Mathematics**  
 _Franklin College of Arts and Sciences_  
-**UNIVERSITY OF GEORGIA**   
-***
+**UNIVERSITY OF GEORGIA**  
+<hr>
 
 ## EDUCATION
 * __Shandong University, Department of Mathematics,__  
@@ -25,6 +25,10 @@ Advisor: Jiangwei Xue
 Master of Science  
 Sep, 2015–June, 2018
 
+* __University of Georgia, Department of Mathematics,__  
+Athens, US  
+Area of Study: Arithmetic Geometry  
+Since Aug, 2018
 
 ## VISITING EXPERIENCE
 The Institute of Mathematics, Academia Sinica, Taiwan, Oct 01–Dec 31, 2017
